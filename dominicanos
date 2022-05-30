@@ -1,2 +1,4 @@
 #EXTINF:-1, Telemicro
 media*~hmac=aecbb8bf0e88f8d5d3a6e1cf94debacab0bc7a8230658030e0e252e1b944ab31
+#EXTINF:-1, Digital 15
+https://playback.akamaized.net/streams/27456795_8268514_lsidntdube0ognetrrx_1/media/27456795_8268514_lsidntdube0ognetrrx_1@5256000p.m3u8?dw=14400&ts=1653922800&hdnts=exp=1654097550~acl=/streams/27456795_8268514_lsidntdube0ognetrrx_1/media*~hmac=43849810d813f9e3465397dc45cdf95cb5c49588d4d1dd1499d82379b70a3839
