@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:0 type="playlist", Spartacus
 https://e-10.mzzcloud.life/_v8/04a8e37084e569085877e191699adaabc433b425aa5cba5403e5c7643ac917d365706ccfdd659b5cc56e82337e8c60f88f2198d8b5f35831bb98b166230fc5870ffc1b8dc2d980bfacd16687afbd327b19825376cb7c002277e4d8989c461cf566fe51389f27a4a0080b5c550e7c34dd470ffb2c90c646e2c7ea038f88b3d5ab/720/index.m3u8
-https://c-4.mzzcloud.life/_v8/7a9661801241b9e7ba0a543c32ee604f5768c87a6eec7b0badd8ebaff5915a3f3f4b2f47ae92b6e9ffc87fba3cadba971240a8dfa470e3a889cb6c586486e2eeb06993f3e71b789a698bc0face486e1ad43dfcf860abd92cdf5a17d1a37c1c00ea0a5770ed256209f7e93846ddf95812d4b4fd37c9a4233a8d78e4640be9e15a/720/index.m3u8
 #EXTINF:0 type="playlist", 2010-2014
 http://example.com/playlists/2010-2014.m3u
 #EXTINF:0 type="playlist", A-Z
