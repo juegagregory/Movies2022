@@ -1,21 +1,24 @@
 #EXTM3U
-#EXTINF:0 type="playlist", Spartacus
-https://e-10.mzzcloud.life/_v8/04a8e37084e569085877e191699adaabc433b425aa5cba5403e5c7643ac917d365706ccfdd659b5cc56e82337e8c60f88f2198d8b5f35831bb98b166230fc5870ffc1b8dc2d980bfacd16687afbd327b19825376cb7c002277e4d8989c461cf566fe51389f27a4a0080b5c550e7c34dd470ffb2c90c646e2c7ea038f88b3d5ab/720/playlist/spartacus.m3u8
+#EXTINF:0 type="playlist", 2015
+#EXTSIZE: Medium
+http://example.com/playlists/2015.m3u
 #EXTINF:0 type="playlist", 2010-2014
+#EXTSIZE: Medium
 http://example.com/playlists/2010-2014.m3u
 #EXTINF:0 type="playlist", A-Z
+#EXTSIZE: Medium
 http://example.com/playlists/a-z.m3u
-#EXTINF:0 type="playlist", Documentary
+#EXTINF:0 tvg-logo="http://example.com/logos/docs.png", documentary
 http://example.com/playlists/docs.m3u
-#EXTINF:0 type="playlist", Drama
+#EXTINF:0 tvg-logo="http://example.com/logos/drama.png", Drama
 http://example.com/playlists/drama.m3u
-#EXTINF:0 type="playlist", Comedy
+#EXTINF:0 tvg-logo="http://example.com/logos/comedy.png", Comedy
 http://example.com/playlists/comedy.m3u
-#EXTINF:0 type="playlist", TV Series
+#EXTINF:0 tvg-logo="http://example.com/logos/serials.png", TV Series
 http://example.com/playlists/serials.m3u
-#EXTINF:0 type="playlist", Triller
+#EXTINF:0 tvg-logo="http://example.com/logos/trillers.png", Triller
 http://example.com/playlists/trillers.m3u
-#EXTINF:0 type="playlist", Horror
+#EXTINF:0 tvg-logo="http://example.com/logos/horror.png", Horror
 http://example.com/playlists/horror.m3u
-#EXTINF:0 type="playlist", Fiction
+#EXTINF:0 tvg-logo="http://example.com/logos/fantastic.png", Fiction
 http://example.com/playlists/fantastic.m3u
