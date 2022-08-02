@@ -1,24 +1,37 @@
-#EXTM3U
-#EXTINF:0 type="playlist", 2015
-#EXTSIZE: Medium
-http://example.com/playlists/2015.m3u
-#EXTINF:0 type="playlist", 2010-2014
-#EXTSIZE: Medium
-http://example.com/playlists/2010-2014.m3u
-#EXTINF:0 type="playlist", A-Z
-#EXTSIZE: Medium
-http://example.com/playlists/a-z.m3u
-#EXTINF:0 tvg-logo="http://example.com/logos/docs.png", documentary
-http://example.com/playlists/docs.m3u
-#EXTINF:0 tvg-logo="http://example.com/logos/drama.png", Drama
-http://example.com/playlists/drama.m3u
-#EXTINF:0 tvg-logo="http://example.com/logos/comedy.png", Comedy
-http://example.com/playlists/comedy.m3u
-#EXTINF:0 tvg-logo="http://example.com/logos/serials.png", TV Series
-http://example.com/playlists/serials.m3u
-#EXTINF:0 tvg-logo="http://example.com/logos/trillers.png", Triller
-http://example.com/playlists/trillers.m3u
-#EXTINF:0 tvg-logo="http://example.com/logos/horror.png", Horror
-http://example.com/playlists/horror.m3u
-#EXTINF:0 tvg-logo="http://example.com/logos/fantastic.png", Fiction
-http://example.com/playlists/fantastic.m3u
+#EXTINF:0 type=video, Spartacus episode 1
+https://c-4.mzzcloud.life/_v8/04a8e37084e569085877e191699adaabc433b425aa5cba5403e5c7643ac917d365706ccfdd659b5cc56e82337e8c60f88f2198d8b5f35831bb98b166230fc5870ffc1b8dc2d980bfacd16687afbd327bb19efa4c5d8fe1a591a2dbd207c6276a2690c2b86875904993defc228f3240c7530c3633dfb7bbc158bb93d68f58bff3/720/index.m3u8
+#EXTINF:0 type=video, Spartacus episode 2
+https://c-3.mzzcloud.life/_v8/7a9661801241b9e7ba0a543c32ee604f5768c87a6eec7b0badd8ebaff5915a3f3f4b2f47ae92b6e9ffc87fba3cadba971240a8dfa470e3a889cb6c586486e2eeb06993f3e71b789a698bc0face486e1ad43dfcf860abd92cdf5a17d1a37c1c00ea0a5770ed256209f7e93846ddf95812d4b4fd37c9a4233a8d78e4640be9e15a/720/index.m3u8
+#EXTINF:0 type=video, Spartacus episode 3
+https://c-2.mzzcloud.life/_v8/49f90f28038fde3bc6bec13dfd673bc6cd14cac577593fb4c59023fc3976b88b708405e49818ce138d0689d0913b96e13c608f08c8327871207e7c7bbac6d028c9125ead19db519b3ee82a7caf63b64083dd1e66cd0675ecebe84e66d6da220434f2f51bc76b764d46fb8a27852e094ac9aa51f15dbeecf25b790333f1b2bb22/720/index.m3u8
+#EXTINF:0 type=video, Spartacus episode 4
+https://e-4.mzzcloud.life/_v8/055d17bab54ffea76d432cbb65e64eeeebc877cf5054d3850525533494da8301ab1f8caeb2f271743862a1a0cf4e6172a220e5d7831991b4b1efa802c87f652fa0b89b9b85cba8db0672da550f566964cc8702819392e4af0143a26f274508737adf3dcef1a5507673c1d9c05a0f64b242775e81aaa7ed1de44b656d3220bca1/720/index.m3u8
+#EXTINF:0 type=video, Spartacus episode 5
+https://e-7.mzzcloud.life/_v8/e2dc4bf70790633b1b79026c107750f516c751f14cf71eb7c91d200174e037d798a1dc3e528dff343fe9bab00afec2588959051d0a6b20bf182ba680214e20fd8bf4990548db1eb15af7e61ae7a77e39ea1f4da203e2f99b52a8762044d94268fa0241622c0ea60c2f686dd2680ef3e5a314bd3dc5e70729eeeeb8170db39500/720/index.m3u8
+#EXTINF:0 type=video, Spartacus episode 6
+https://e-7.mzzcloud.life/_v8/a8d342a6c5f44fe42d78448e5b6caa313f9c03346ddfb51f5432a5dace2674c4fd05c22a9d75acf9cb1f30034b07ac3df2f9804b77c3aa6a78c1f3d49cba15e572f0af6b3f01f96e1be3f9e233625508f98a731cfb882607a004307750274a54b8988aa6a936152a37248b38f7b2285cf29fc3d3869a60a7f413500a47e9d903/720/index.m3u8
+#EXTINF:0 type=video, Spartacus episode 7
+https://e-2.mzzcloud.life/_v8/20df52ecf13697ae26a4cc692267f1a3aab83dc032a15c726a25f0598ac7fd99ec7b56a7caab889f83fd28e68d4212f71949a2f445a52220f59b31da5189c45fb8f7c656802127b1539271fa57ed2da022eac297df90d178432286fc3db4da89116be07f300f4644db823b3cc1edcf0a08173747f40c68bcac6580a8d3fb221f/720/index.m3u8
+#EXTINF:0 type=video, Spartacus episode 8
+https://c-4.mzzcloud.life/_v8/6ff29ce3c3b25476461ca340db4ea66ca2115b77ba8b9dcd20d3f2fc37a7b546c438c48409579e4bfc4cb5b1c818bae13b73fd730dc92e56bcb5a5c6df1db4c28a2d59d22713b8e610a70aad9a55c34b2b4e3f33b3bb03e74627a57ba45c0c91d0b349b7632c08153383fa5c3574542a10a8ad6b9908e88eaa0b496f1255aced/720/index.m3u8
+#EXTINF:0 type=video, Spartacus episode 9
+https://e-2.mzzcloud.life/_v8/166f9794329bedf3db990b9b204ed1bdc46391ff22e36270857e971eef0bf1fb1b3978a5ecba005cfe5aeb134cf460b098d2edc106a728d9c040703df9c9249e6dfff49c22a73e7e377a9fda1cc09c1dfdd7281354a5d60c7df050779a2df61bddc8bfcd8193590181a88b6d359c5fdd07b4bd3f0804ac6581028941477156a1/720/index.m3u8
+#EXTINF:0 type=video, Spartacus episode 10
+https://e-4.mzzcloud.life/_v8/75ac365413abc84b43743126caa931940009ee6b167d056d210289e0ddf232387ced65553933e5a5df027ea68cb4bff126765e690d6f39992219888adf212dc9f8450a3f42b772a37292c611b4a73314be2a9763c7543508e41f693e1acf36f39a84b6ee89faeced8b613003f8ddd9288cddd5a65c4c331386ae0b6a256f83fd/720/index.m3u8
+#EXTINF:0 type=video, Spartacus episode 11
+https://e-7.mzzcloud.life/_v8/a9575fa850469b4db7a0bf3318b406515dec2d36c84009ddbf2a4805601a62b6d031b47510e61b93cfed17fd463dda4e7ac58b23c18e80cb8bc14741e0cbaaf59a4b6f318a9424ccfadc59c0145d1e1ebeaaba5b95e54e3764244a29cc8e3dab2dc471fee65fd838dc9b80b918821d9f6ece448399b5fe7dc4df561668bb37b7/720/index.m3u8
+#EXTINF:0 type=video, Spartacus episode 12
+https://e-6.mzzcloud.life/_v8/ab8c50c7ab8a0efc85f61de92e298f6230115a2a8d801d8e89778f4770d9d8c12c0ab140ee8ba9e5f83eb73096b30fc718b5313e2af82f325c10841cda738c6f6a5720922e84b87fc4c764af1ab524d4492c9cacee6daf709b4f50588d2b626e6df584ca0ae96212b3f58466218c1cebfa68136d58fcb3df26751a1da1a6fe16/720/index.m3u8
+#EXTINF:0 type=video, Spartacus episode 13
+https://e-5.mzzcloud.life/_v8/f3c0c0fb4522f3fe49c4faba82afe283c3db31d7c93479505262f42053c3aea7e8654d0aac3da8fa8ac7ef0f0ab84d0fd2569ae11afe333fd8af68ad07deddeda92d314628d61e006de1e84b7b5526a07d3ea3617c220cc6c8001fb031d96718ac8f9deb71662652fd84af476e6c15a0736ce59ac7d50e38d7d2de5caa8ffa58/720/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
